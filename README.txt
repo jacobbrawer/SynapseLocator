@@ -1,5 +1,9 @@
+Allen Institute - Synaptic Physiology Department
 
-
+This is an algorithm for determining synapse locations of neighboring human corticol neurons using 3D morphological reconstructions and
+euclidean and segmental distance. This program takes in a folder of SWC files as input and returns a list of the potential synapse 
+locations and a visualization of the synapses viewable in Vaa3D. Machine learning was also used to inform post-synaptic dendritic radius  
+information pertinent to synapse formation.
 
 Using the Synaptic Distance Calculator:
 
